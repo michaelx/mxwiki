@@ -60,6 +60,12 @@ sudo nvram -d boot-args
 defaults write NSGlobalDomain com.apple.swipescrolldirection -bool true
 ```
 
+## Disable local Time Machine backups
+
+```
+hash tmutil &> /dev/null && sudo tmutil disablelocal
+```
+
 ## Force Time Machine backup
 
 ```
