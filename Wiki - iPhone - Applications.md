@@ -40,6 +40,7 @@
 * SoundCloud
 * Google Music
 * Shazam
+* Auphonic 
 
 ## Games
 
@@ -108,12 +109,12 @@
 * IMDb
 
 
-# Installed, but still under testing 
+# Installed, but Still Testing 
 
 
-# To uninstall
+# To Uninstall
 
 
-# Miss something?
+# Miss Something?
 
 Check out [my Pinboard collection](https://pinboard.in/u:michaelx/t:iphone/t:application/) with over 320+ applications.

@@ -58,7 +58,7 @@ fi
 ```
 
 
-# Creating VirtualHosts
+# Create VirtualHosts
 
 File: `/etc/apache2/httpd.conf`
 Uncomment: `Include /private/etc/apache2/extra/httpd-vhosts.conf`
@@ -90,7 +90,7 @@ Now Apache will load `httpd-vhosts.conf`.
 </VirtualHost>
 ```
 
-## Edit hosts file
+## Edit Hosts File
 
 File: `/etc/hosts`
 

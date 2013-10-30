@@ -1,4 +1,4 @@
-# Create bootable Mac OS from MAS file
+# Create Bootable Mac OS from MAS File
 
 * Show contents of Install.app.
 * Copy 'InstallESD.dmg' from '/Contents/SharedSupport/ to an USB drive.
@@ -23,26 +23,26 @@
 * [General hints](https://pinboard.in/u:michaelx/t:hints/t:osx/)
 * [Dotfiles with a bunch of initial tweaks](https://github.com/michaelx/dotfiles)
 
-## Show the Library folder
+## Show the Library Folder
 
 ```
 chflags nohidden ~/Library
 ```
 
-## Disable opening and closing window animations
+## Disable Opening and Closing Window Animations
 
 ```
 defaults write NSGlobalDomain NSAutomaticWindowAnimationsEnabled -bool false
 ```
 
-## Disable send and reply animations in Mail.app
+## Disable Send and Reply Animations in Mail.app
 
 ```
 defaults write com.apple.mail DisableReplyAnimations -bool true
 defaults write com.apple.mail DisableSendAnimations -bool true
 ```
 
-## Disable internal Laptop Display when external Display is attached (pre-10.7 behavior)
+## Disable Internal Laptop Display When External Display is Attached (pre-10.7 Behavior)
 
 ```
 sudo nvram boot-args="iog=0x0"
@@ -54,43 +54,43 @@ sudo nvram boot-args="iog=0x0"
 sudo nvram -d boot-args
 ```
 
-## Enable “natural” (Lion-style) scrolling
+## Enable “Natural” (Lion-style) Scrolling
 
 ```
 defaults write NSGlobalDomain com.apple.swipescrolldirection -bool true
 ```
 
-## Disable local Time Machine backups
+## Disable Local Time Machine Backups
 
 ```
 hash tmutil &> /dev/null && sudo tmutil disablelocal
 ```
 
-## Force Time Machine backup
+## Force Time Machine Backup
 
 ```
 /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd-helper
 ```
 
-## Force Google Contacts sync
+## Force Google Contacts Sync
 
 ```
 /System/Library/PrivateFrameworks/GoogleContactSync.framework/Versions/A/Resources/gconsync --sync com.google.ContactSync
 ```
 
-## Disable Sudden Motion Sensor in a portable Mac with a SSD (re-enable with '1')
+## Disable Sudden Motion Sensor in a Portable Mac with a SSD (re-enable with '1')
 
 ```
 sudo pmset -a sms 0
 ```
 
-## Change Hibernation Mode (0:RAM, 1:HDD, 3:RAM+HDD) and delete last image (Standard: 3)
+## Change Hibernation Mode (0:RAM, 1:HDD, 3:RAM+HDD) and Delete Last Image (Standard: 3)
 
 ```
 sudo pmset -a hibernatemode 0; sudo rm /var/vm/sleepimage
 ```
 
-## Rebuild Launch Services to remove duplicates from "Open With" menu
+## Rebuild Launch Services to Remove Duplicates from "Open With" Menu
 
 ```
 /System/Library/Frameworks/CoreServices.framework/Frameworks/LaunchServices.framework/Support/lsregister -kill -r -domain local -domain system -domain user
@@ -98,7 +98,7 @@ sudo pmset -a hibernatemode 0; sudo rm /var/vm/sleepimage
 
 Or delete `/Home/Library/Preferences/com.apple.~LaunchServices`
 
-## Rebuild Spotlight index
+## Rebuild Spotlight Index
 
 ```
 killall mds
@@ -106,14 +106,14 @@ sudo mdutil -i on /
 sudo mdutil -E /
 ```
 
-## Add Dock spaces
+## Add Dock Spaces
 
 ```
 defaults write com.apple.dock persistent-apps -array-add '{ "tile-type" = "spacer-tile"; }'
 killall Dock
 ```
 
-## Speed up sleep mode
+## Speed Up Sleep Mode
 
 ```
 sudo pmset -a hibernationmode <#>
@@ -128,27 +128,27 @@ sudo pmset -a hibernationmode <#>
 
 # Finder
 
-## Show hidden files
+## Show Hidden Files
 
 ```
 defaults write com.apple.finder AppleShowAllFiles -boolean true;killall Finder
 ```
 
-## Hide hidden files
+## Hide Hidden Files
 
 ```
 defaults write com.apple.finder AppleShowAllFiles -boolean false;killall Finder
 ```
 
-## Tinker column view
+## Tinker Column View
 
 Double-click on the Resize handle at the bottom of the window. The column will expand to the width of the longest name in the column.
 
-### Save column size
+### Save Column Size
 
 Option-drag on a column handle, the Finder will use the column size settings for every Finder window you open.
 
-### Advanced resize options
+### Advanced Resize Options
 
 Control (right) click on a column handle and you’ll see three options:
 
@@ -158,7 +158,7 @@ Control (right) click on a column handle and you’ll see three options:
 
 [Source](http://www.macworld.com/article/155221/2010/10/tinker_column_view.html)
 
-## Save temporary flash files
+## Save Temporary Flash Files
 
 * Search for files named *FlashTmp.xyz* in `/private/var/folders/`.
 * Copy and rename to xyz.avi.
@@ -166,13 +166,13 @@ Control (right) click on a column handle and you’ll see three options:
 
 # Screenshots
 
-## Change default location
+## Change Default Location
 
 ``
 defaults write com.apple.screencapture location -string "$HOME/xyz"
 ``
 
-## Change format 
+## Change Format 
 
 Options: PNG, BMP, GIF, JPG, PDF, TIFF
 
@@ -180,7 +180,7 @@ Options: PNG, BMP, GIF, JPG, PDF, TIFF
 defaults write com.apple.screencapture type -string "png"
 ```
 
-## Disable shadow
+## Disable Shadow
 
 ```
 defaults write com.apple.screencapture disable-shadow -bool true

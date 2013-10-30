@@ -147,12 +147,12 @@
 * [HSLider](http://bclennox.com/projects/hslider)
 
 
-# Installed, but still under testing 
+# Installed, but Still Testing 
 
 
-# To uninstall
+# To Uninstall
 
 
-# Miss something?
+# Miss Something?
 
 Check out [my Pinboard collection](https://pinboard.in/u:michaelx/t:mac/t:application/) with over 1600+ applications.

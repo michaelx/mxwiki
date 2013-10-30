@@ -1,4 +1,4 @@
-# Hardware issues
+# Hardware Issues
 
 * Remove all external devices. Test each.
 * Test each RAM.
@@ -9,7 +9,7 @@
 * Use the [Apple Hardware Test](http://support.apple.com/kb/HT1509).
 
 
-# OS issues
+# OS Issues
 
 * Repair permissions via the Disk Utility.
 * Try a new user account.
@@ -20,7 +20,7 @@
 * Try a [safe boot](http://support.apple.com/kb/HT1455).
 * Try a [verbose boot](https://support.apple.com/kb/ht1492).
 
-## Fix sleep mode
+## Fix Sleep Mode
 
 * Let your Mac on over night. Often times background jobs are overdue and prevent Mac OS from sleep.
 * Check Login Items at `/Library/~StartupItems`, `/Library/~LaunchDaemons`, `/System/Library/~LaunchDaemons` and `/System/Library/~LaunchAgents`.

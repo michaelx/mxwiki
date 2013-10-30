@@ -72,12 +72,12 @@
 * [VirtualBox](http://www.virtualbox.org/)
 
 
-# Installed, but still under testing 
+# Installed, but Still Testing 
 
 
-# To uninstall
+# To Uninstall
 
 
-# Miss something?
+# Miss Something?
 
 Check out [my Pinboard collection](https://pinboard.in/u:michaelx/t:windows/t:application/) with over 500+ applications.

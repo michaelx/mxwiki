@@ -111,12 +111,12 @@
 * GPlayer
 
 
-# Installed, but still under testing 
+# Installed, but Still Testing 
 
 
-# To uninstall
+# To Uninstall
 
 
-# Miss something?
+# Miss Something?
 
 Check out [my Pinboard collection](https://pinboard.in/u:michaelx/t:ipad/t:application/) with over 130+ applications.

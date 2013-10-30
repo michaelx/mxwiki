@@ -11,7 +11,7 @@
 * Close apps via Tab Switcher: Command-Tab-Q
 * Hide apps via Tab Switcher: Command-Tab-H
 
-## Text processing
+## Text Processing
 
 * Delete complete word before the cursor: Alt-Backspace
 * Delete complete word after the cursor: Function-Alt-Backspace
@@ -36,7 +36,7 @@
 
 * Press Shift during your action
 
-## Sound volume
+## Sound Volume
 
 * Use finer volume levels: Alt-Shift-VolumeKeys
 * Change volume without OS sound: Shift-VolumeKeys
@@ -53,7 +53,7 @@
 * Hide toolbar and re-enable via search: Alt-Command-F
 
 
-# Additional sources
+# Additional Sources
 
 * 200+ Productivity Booster Keyboard Shortcuts via ([UsingMag.com/source offline](http://www.usingmac.com/2007/11/21/mac-os-x-leopard-200-productivity-booster-hotkeys)): [PDF Backup](https://dl.dropboxusercontent.com/u/1089446/wiki/docs/200_Productivity_Booster_Keyboard_Shortcuts.pdf).
 * [DanRodney.com](http://www.danrodney.com/mac/index.html)
