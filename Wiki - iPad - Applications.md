@@ -33,10 +33,11 @@
 * Rdio
 * SoundCloud
 * Amazon Cloud Player
-* Google Music
+* gMusic 2
 
 ## Games
 
+* LIMBO
 * Bastion
 * Angry Birds Star Wars
 * Sonic CD
@@ -55,7 +56,9 @@
 
 * eBay
 * Power 20
+* Six Pack
 * TunnelBear
+* Food52 Holidays
 
 ## Office
 
@@ -66,6 +69,7 @@
 * Google
 * PDF Master
 * File Hub
+* Sketchology
 
 ## Productivity
 

@@ -100,3 +100,77 @@ Add your server aliases at the bottom of the file.
 # Custom
 127.0.0.1	local.io
 ```
+
+
+# Optional
+
+## Apache Config
+
+File: `/etc/apache2/httpd.conf`
+
+### My Low RAM Config
+
+```
+# Low Memory Settings
+
+StartServers 1
+MinSpareServers 1
+MaxSpareServers 3
+MaxClients 3
+MaxRequestsPerChild 300
+```
+
+## MySQL Config
+
+File: `~/.my.cnf`
+
+### My Low RAM Config
+
+```
+[mysql]
+
+# CLIENT #
+port                           = 3306
+skip-locking
+
+[mysqld]
+
+# GENERAL #
+default-storage-engine         = InnoDB
+
+# MyISAM #
+key-buffer-size                = 8M
+sort-buffer-size 			   = 256K
+read-buffer-size 			   = 256K
+read-rnd-buffer-size 		   = 512K
+myisam-sort-buffer-size 	   = 1M
+join-buffer-size 			   = 1M
+myisam-recover                 = FORCE,BACKUP
+
+# SAFETY #
+max-allowed-packet             = 16M
+max-connect-errors             = 100
+
+# BINARY LOGGING #
+expire-logs-days               = 7
+sync-binlog                    = 1
+
+# CACHES AND LIMITS #
+tmp-table-size                 = 8M
+max-heap-table-size            = 4M
+query-cache-type               = 0
+query-cache-size               = 0
+max-connections                = 10
+thread-cache-size              = 10
+open-files-limit               = 65535
+table-definition-cache         = 128
+table-open-cache               = 256
+
+# INNODB #
+innodb-flush-method            = O_DIRECT
+innodb-log-files-in-group      = 3
+innodb-log-file-size           = 4M
+innodb-flush-log-at-trx-commit = 1
+innodb-file-per-table          = 1
+innodb-buffer-pool-size        = 16
+```

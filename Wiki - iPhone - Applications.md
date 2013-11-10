@@ -69,6 +69,7 @@
 * Pocket
 * Reeder
 * Kindle
+* Circa
 
 ## Social
 
@@ -87,6 +88,8 @@
 * Google+
 * LinkedIn
 * Skype
+* Snapchat
+* popcorn
 
 ## Travel
 

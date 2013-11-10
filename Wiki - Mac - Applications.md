@@ -21,6 +21,7 @@
 * Google Music Manager
 * [SoundCleod](https://github.com/salomvary/soundcleod)
 * [Spotify](https://www.spotify.com/us/download/mac/)
+* [Spotifree](https://github.com/ArtemGordinsky/SpotiFree)
 * [Rdio](http://www.rdio.com/apps/)
 * [Max](http://sbooth.org/Max/) *(Converter)*
 
@@ -31,8 +32,11 @@
 * [Dropbox](http://dropbox.com)
 * [Arq](http://www.haystacksoftware.com/arq/)
 * [Downloadr](http://janten.com/software/mac/downloadr/) *(Flickr Backup)*
-* [4K Stogram](http://www.4kdownload.com/products/product-stogram) *(Instagram Backup)*
 * [F-Stop](http://www.zamioware.com/Flicker1/Home.html) *(Flickr Backup & Upload)*
+
+## Bookmarklets
+
+I am using a bunch of bookmarklets, which are all documented in the [macWorkflows](https://github.com/michaelx/macWorkflows/blob/master/Bookmarklets.html) project.
 
 ## Burning & Ripping
 
@@ -50,7 +54,6 @@
 * [Versions](http://www.versionsapp.com/)
 * [Sequel Pro](http://www.sequelpro.com/)
 * [Developer Color Picker](http://www.panic.com/~wade/picker/)
-* [CodeKit](http://incident57.com/codekit/)
 * [LESS.app](http://incident57.com/less/)
 * [Homebrew](http://mxcl.github.com/homebrew/)
 * [SEO Spider](http://www.screamingfrog.co.uk/seo-spider/)
@@ -81,7 +84,6 @@
 * Mail
 * [Adium](http://adium.im/)
 * [Skype](http://skype.com)
-* [Reeder](http://reederapp.com/)
 * [ReadKit](http://readkitapp.com)
 * [Transmission](http://www.transmissionbt.com/)
 * [Paparazzi!](http://derailer.org/paparazzi/)
@@ -92,12 +94,7 @@
 
 ## Monitoring
 
-* [iStatsMenus](http://www.islayer.com/apps/istatmenus/)
 * [Drobo Dashboard](http://www.drobo.com/products/drobo-dashboard/)
-
-## Notification
-
-* [Growl Fork](http://www.macupdate.com/app/mac/41038/growl-fork)
 
 ## Office
 
@@ -113,10 +110,13 @@
 * [Mou](http://mouapp.com/)
 * [Calca](http://calca.io)
 * [Fantastical](http://flexibits.com/)
+* iBooks
+* [Kindle](http://www.amazon.com/gp/feature.html?docId=1000464931)
 
 ## Photography
 
 * iPhoto
+* Aperture
 
 ## Productivity
 
@@ -130,6 +130,22 @@
 ## Renaming
 
 * [ForkLift](http://www.binarynights.com/forklift)
+
+## Safari Extensions
+
+* [1Password Extension](https://agilebits.com/browsers/index.html‎)
+* [Invisible Status Bar](http://dbergey.github.io)
+* [Omnikey](http://marioestrada.github.io/safari-omnikey/)
+* [ClickToPlugin](http://hoyois.github.io/safariextensions/clicktoplugin/)
+* [AdBlock](https://getadblock.com)
+* [JSON Formatter](https://github.com/rfletcher/safari-json-formatter)
+* [NoMoreiTunes](http://nomoreitunes.einserver.de)
+
+## Services & Scripts
+
+* [TextExpander Tools](http://brettterpstra.com/projects/te-tools/)
+* [Markdown Service Tools](http://brettterpstra.com/projects/markdown-service-tools/)
+* [SearchLink](http://brettterpstra.com/projects/searchlink/)
 
 ## Video
 
