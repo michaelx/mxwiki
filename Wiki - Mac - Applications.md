@@ -49,6 +49,8 @@
 * rename
 * tree
 * webkit2png
+* ghostscript
+* imagemagick
 * tesseract
 
 ## Bookmarklets

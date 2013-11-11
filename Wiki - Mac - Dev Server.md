@@ -104,6 +104,12 @@ Add your server aliases at the bottom of the file.
 
 # Optional
 
+## Start MySQL at Login
+
+```
+ln -sfv /usr/local/opt/mysql/*.plist ~/Library/LaunchAgents
+```
+
 ## Apache Config
 
 File: `/etc/apache2/httpd.conf`
