@@ -34,6 +34,23 @@
 * [Downloadr](http://janten.com/software/mac/downloadr/) *(Flickr Backup)*
 * [F-Stop](http://www.zamioware.com/Flicker1/Home.html) *(Flickr Backup & Upload)*
 
+## Brew (via)
+
+* coreutils
+* findutils
+* bash
+* wget
+* homebrew/dupes/grep
+* php55
+* mysql
+* git
+* node
+* pigz
+* rename
+* tree
+* webkit2png
+* tesseract
+
 ## Bookmarklets
 
 I am using a bunch of bookmarklets, which are all documented in the [macWorkflows](https://github.com/michaelx/macWorkflows/blob/master/Bookmarklets.html) project.
