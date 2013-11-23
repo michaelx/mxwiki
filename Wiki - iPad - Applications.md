@@ -32,8 +32,8 @@
 * Spotify
 * Rdio
 * SoundCloud
+* Google Play Music
 * Amazon Cloud Player
-* gMusic 2
 
 ## Games
 
@@ -51,6 +51,7 @@
 * GTA Vice City
 * iFruit
 * GTAV Manual
+* True Skate
 
 ## Misc
 
@@ -59,6 +60,7 @@
 * Six Pack
 * TunnelBear
 * Food52 Holidays
+* Duolingo
 
 ## Office
 

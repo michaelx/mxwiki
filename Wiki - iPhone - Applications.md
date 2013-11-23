@@ -36,11 +36,13 @@
 
 * Spotify
 * Rdio
+* Google Play Music
 * Amazon Cloud Player
 * SoundCloud
 * Google Music
 * Shazam
-* Auphonic 
+* Auphonic
+* Keezy 
 
 ## Games
 
@@ -58,6 +60,7 @@
 * Google Drive
 * dict.cc
 * File Hub
+* TinyScan
 
 ## Productivity
 
@@ -89,7 +92,6 @@
 * LinkedIn
 * Skype
 * Snapchat
-* popcorn
 
 ## Travel
 
@@ -114,6 +116,7 @@
 
 # Installed, but Still Testing 
 
+* Day One
 
 # To Uninstall
 
