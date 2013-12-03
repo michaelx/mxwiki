@@ -90,6 +90,8 @@ I am using a bunch of bookmarklets, which are all documented in the [macWorkflow
 * [FEZ](http://fezgame.com)
 * [Steam](http://store.steampowered.com)
 * [Origin](https://www.origin.com)
+* [Dolphin](https://dolphin-emu.org)
+* [DeSmuME](http://desmume.org)
 
 ## Image Editing
 
@@ -169,6 +171,7 @@ I am using a bunch of bookmarklets, which are all documented in the [macWorkflow
 ## Video
 
 * [VLC](http://www.videolan.org/vlc/)
+* [Rivet](http://thelittleappfactory.com/rivet/)
 
 ## Virtualize
 
