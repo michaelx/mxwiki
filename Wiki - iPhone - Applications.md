@@ -42,7 +42,7 @@
 * Google Music
 * Shazam
 * Auphonic
-* Keezy 
+* Keezy
 
 ## Games
 
@@ -66,6 +66,8 @@
 
 * Things
 * 1Password
+* HipChat
+* Hill88
 
 ## Reading
 
@@ -91,7 +93,6 @@
 * Google+
 * LinkedIn
 * Skype
-* Snapchat
 
 ## Travel
 
@@ -116,7 +117,6 @@
 
 # Installed, but Still Testing 
 
-* Day One
 
 # To Uninstall
 

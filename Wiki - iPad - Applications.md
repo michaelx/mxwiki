@@ -38,14 +38,14 @@
 ## Games
 
 * LIMBO
-* Bastion
-* Angry Birds Star Wars
 * Sonic CD
-* World of Goo
 * Whale Trail
 * GTA: Chinatown Wars
 * Cut the Rope HD
 * Sonic Dash
+* Rayman Run
+* Mikey Shorts
+* Mikey Hooks
 * BADLAND
 * Tiny Wings HD
 * GTA Vice City
@@ -53,21 +53,27 @@
 * GTAV Manual
 * True Skate
 
+## Health
+
+* Paprika
+* iMuscle 2
+* Food52 Holidays
+* Power 20
+* Relaxia
+
 ## Misc
 
 * eBay
-* Power 20
-* Six Pack
 * TunnelBear
-* Food52 Holidays
 * Duolingo
+* Xbox SmartGlass
 
 ## Office
 
 * Calcbot
 * Dropbox
 * Google Drive
-* TinyScan Pro
+* Scanner Pro
 * Google
 * PDF Master
 * File Hub
@@ -78,6 +84,8 @@
 * 1Password
 * Things
 * Editorial
+* HipChat
+* Hill88
 
 ## Reading
 
@@ -85,7 +93,7 @@
 * Kindle
 * Pocket
 * Flipboard
-* ComicsX
+* comiXology
 
 ## Social
 

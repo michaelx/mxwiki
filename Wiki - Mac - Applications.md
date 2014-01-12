@@ -24,6 +24,7 @@
 * [Spotifree](https://github.com/ArtemGordinsky/SpotiFree)
 * [Rdio](http://www.rdio.com/apps/)
 * [Max](http://sbooth.org/Max/) *(Converter)*
+* [Audacity](http://audacity.sourceforge.net)
 
 ## Backup & Clone and Synchronization
 
@@ -92,6 +93,7 @@ I am using a bunch of bookmarklets, which are all documented in the [macWorkflow
 * [Origin](https://www.origin.com)
 * [Dolphin](https://dolphin-emu.org)
 * [DeSmuME](http://desmume.org)
+* [OpenEmu](http://openemu.org)
 
 ## Image Editing
 
@@ -103,15 +105,14 @@ I am using a bunch of bookmarklets, which are all documented in the [macWorkflow
 * [Google Chrome](http://www.google.com/chrome/)
 * [Firefox](http://www.mozilla-europe.org/en/firefox/)
 * Mail
-* [Adium](http://adium.im/)
 * [Skype](http://skype.com)
 * [ReadKit](http://readkitapp.com)
 * [Transmission](http://www.transmissionbt.com/)
 * [Paparazzi!](http://derailer.org/paparazzi/)
-* [Droplr](http://droplr.com)
 * [Tweetbot](http://tapbots.com/tweetbot_mac/)
 * [TunnelBear](http://www.tunnelbear.com/)
 * [Express Talk VoIP](http://www.nch.com.au/talk/index.html)
+* [HipChat](https://www.hipchat.com)
 
 ## Monitoring
 
@@ -187,6 +188,7 @@ I am using a bunch of bookmarklets, which are all documented in the [macWorkflow
 
 # Installed, but Still Testing 
 
+* [Light Table](http://www.lighttable.com)
 
 # To Uninstall
 
