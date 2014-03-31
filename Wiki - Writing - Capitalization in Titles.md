@@ -15,20 +15,20 @@ Capitalize only the first word of the title and any proper nouns.
 
 ## Do Capitalize
 
-* Nouns (man, bus, book, …)
-* Pronouns (he, she, it, you, they, them, …)
-* Adjectives (angry, small, perfect, last, still …)
-* Verbs (run, eat, sleep)
-* Adverbs (slowly, quietly, immediately, …)
-* Subordinate conjunctions (if, because, as, that, although)
+* Nouns: man, bus, book
+* Pronouns: he, she, it, you, they, them
+* Adjectives: angry, small, perfect, last, still
+* Verbs: run, eat, sleep, be
+* Adverbs: slowly, quietly, immediately
+* Subordinate conjunctions: if, because, as, that, although
 
 ## Do Not Capitalize
 
 Applies only if it‘s not the last word.
 
 * Articles: a, an, the
-* Coordinating conjunctions: and, but, or, for, nor, etc.
-* Prepositions: in, on, at, to, from, by, with, via, after, among, between
+* Coordinating conjunctions: and, but, or, for, nor
+* Prepositions: in, on, at, to, from, by, with, via, after, among, between, about
 
 
 # Common Mistakes
@@ -88,3 +88,4 @@ Wrong; "their" is an adjective and should be capitalized—the writer probably e
 * [DailyWritingTips](http://www.dailywritingtips.com/rules-for-capitalization-in-titles/)
 * [About.com](http://grammar.about.com/od/grammarfaq/f/capitalstitle.htm)
 * [English Language & Usage Stack Exchange](http://english.stackexchange.com/questions/14/which-words-in-a-title-should-be-capitalized)
+* [Title Capitalization Generator](http://titlecapitalization.com)

@@ -112,7 +112,6 @@ sudo mdutil -E /
 defaults write com.apple.dock persistent-apps -array-add '{ "tile-type" = "spacer-tile"; }'
 killall Dock
 ```
-
 ## Speed Up Sleep Mode
 
 ```
@@ -124,6 +123,18 @@ sudo pmset -a hibernationmode <#>
 * 0: Sleep with RAM *(fast - save everything to the RAM, but your data isn't secure if your battery is low.)*
 * 1: Sleep with Hard Drive *(slow - save everything to the HDD, your data is secure.)*
 * 3: Sleep with RAM and Hard Drive *(slow and the standard mode - save everything to the RAM and additional to the HDD, your data is secure.)*
+
+## Login Clock Format
+
+```
+sudo defaults write /Library/Preferences/.GlobalPreferences AppleLocale "en_US"
+```
+
+## Lock Screen Clock Format
+
+```
+sudo defaults write /var/root/Library/Preferences/.GlobalPreferences AppleLocale "en_US"
+```
 
 
 # Finder
