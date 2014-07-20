@@ -11,18 +11,19 @@
 * Maps
 * Settings
 * Weather
-* Photos
-* Passbook
 
 ## Apple (hidden)
 
+* Passbook
 * App Store
+* Photos
 * FaceTime
 * Notes
 * Voice Memos
-* Compass
+* iBooks
 * Reminders
 * Videos
+* Compass
 * Stocks
 * Game Center
 * iTunes Store
@@ -35,39 +36,40 @@
 ## Audio
 
 * Spotify
+* WNYC
+* Overcast
 * Rdio
 * Google Play Music
-* Amazon Cloud Player
+* Amazon Music
 * SoundCloud
-* Google Music
 * Shazam
+* CBS Local
 * Auphonic
-* Keezy
 
 ## Games
 
 ## Misc
 
 * Bring!
-* TunnelBear
-* eBay
+* dict.cc
 
 ## Office
 
-* Nebulous Notes
+* Editorial
 * Dropbox
 * Google Voice
-* Google Drive
-* dict.cc
+* Authenticator
+* Calcbot
+* Google
 * File Hub
-* TinyScan
+* Scanner Pro
 
 ## Productivity
 
-* Things
-* 1Password
-* HipChat
 * Hill88
+* HipChat
+* 1Password
+* Asana
 
 ## Reading
 
@@ -78,40 +80,36 @@
 
 ## Social
 
-* Foursquare
 * Tweetbot
 * WhatsApp
-* Yelp
-* Facebook
-* Vine
-* Backspaces
 * Instagram
+* Vine
 * Google Hangouts
+* Yelp
+* Swarm
+* Foursquare
 * Meetup
 * Eventbrite
 * Jukely
-* Google+
-* LinkedIn
-* Skype
 
 ## Travel
 
 * Google Maps
 * CityMaps2Go
+* Yahoo! Weather
 * KAYAK
 * Skyscanner
 * DB Navigator
-* FahrInfo Berlin
 * Airbnb
 * Uber
-* Yahoo! Weather
-* United
-* Lufthansa
-* airberlin
-* mTrip Guides
+* United Airlines
+* Hotel Tonight
+* Citymapper
+* BVG FahrInfo
 
 ## Video
 
+* Netflix
 * IMDb
 
 

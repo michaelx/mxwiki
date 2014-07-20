@@ -7,23 +7,24 @@
 * Safari
 * Music
 * Contacts
-* Maps
-* Photos
+* iBooks
 * Messages
 * Settings
 * FaceTime
+* Maps
 
 ## Apple (hidden)
 
 * App Store
-* Clock
+* Photos
+* Podcasts
+* Videos
 * Notes
+* Clock
 * Photo Booth
+* iTunes Store
 * Game Center
 * Reminders
-* Videos
-* iBooks
-* iTunes Store
 * Newsstand
 * Camera
 
@@ -33,76 +34,71 @@
 * Rdio
 * SoundCloud
 * Google Play Music
-* Amazon Cloud Player
+* Amazon Music
+* NPR Music
+* TuneIn Radio
 
 ## Games
 
 * LIMBO
-* Sonic CD
-* Whale Trail
-* GTA: Chinatown Wars
-* Cut the Rope HD
-* Sonic Dash
+* Monument
 * Rayman Run
+* GTA: Chinatown Wars
+* GTA Vice City
+* CrazyTaxi
+* Sonic CD
+* Sonic Dash
+* Sonic Transformed
 * Mikey Shorts
 * Mikey Hooks
+* Mutant Mudds
 * BADLAND
+* Darklings
+* Rocket Robo
 * Tiny Wings HD
-* GTA Vice City
-* iFruit
-* GTAV Manual
-* True Skate
+* TETRIS
+* Yahoo! Fantasy
 
 ## Health
 
 * Paprika
-* iMuscle 2
-* Food52 Holidays
+* Allrecipes
 * Power 20
-* Relaxia
 
 ## Misc
 
-* eBay
-* TunnelBear
-* Duolingo
-* Xbox SmartGlass
+* kaufDA
 
 ## Office
 
 * Calcbot
+* Editorial
 * Dropbox
 * Google Drive
 * Scanner Pro
 * Google
-* PDF Master
-* File Hub
-* Sketchology
+* 53 Paper
 
 ## Productivity
 
-* 1Password
-* Things
-* Editorial
-* HipChat
 * Hill88
+* HipChat
+* 1Password
 
 ## Reading
 
 * Reeder
 * Kindle
 * Pocket
-* Flipboard
 * comiXology
 
 ## Social
 
 * Tweetbot
-* Facebook
-* Vine
-* Backspaces
-* Google+
+* Flow
 * Google Hangouts
+* Vine
+* Facebook
 * Skype
 
 ## Travel
@@ -117,11 +113,12 @@
 ## Video
 
 * Netflix
+* NBA Game Time
 * Crackle
 * YouTube
 * IMDb
-* ESPN Score Center
-* NBA Game Time
+* NPR Music
+* CC: Stand-Up
 * GPlayer
 
 
