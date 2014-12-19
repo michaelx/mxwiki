@@ -16,8 +16,7 @@
 ## Audio
 
 * iTunes
-* [Amazon MP3 Downloader](http://www.amazon.de/gp/dmusic/help/amd.html)
-* Amazon Music Importer
+* [Amazon Cloud Player](http://www.amazon.com/getcloudplayer)
 * Google Music Manager
 * [SoundCleod](https://github.com/salomvary/soundcleod)
 * [Spotify](https://www.spotify.com/us/download/mac/)
@@ -25,6 +24,7 @@
 * [Rdio](http://www.rdio.com/apps/)
 * [Max](http://sbooth.org/Max/) *(Converter)*
 * [Audacity](http://audacity.sourceforge.net)
+* [Radiant Player](http://kbhomes.github.io/google-music-mac/)
 
 ## Backup & Clone and Synchronization
 
@@ -32,7 +32,6 @@
 * [arRsync](http://arrsync.sourceforge.net/)
 * [Dropbox](http://dropbox.com)
 * [Arq](http://www.haystacksoftware.com/arq/)
-* [Downloadr](http://janten.com/software/mac/downloadr/) *(Flickr Backup)*
 * [F-Stop](http://www.zamioware.com/Flicker1/Home.html) *(Flickr Backup & Upload)*
 
 ## Brew (via)
@@ -50,8 +49,9 @@
 * rename
 * tree
 * webkit2png
+* p7zip
 * ghostscript
-* imagemagick
+* imagemagick --with-webp
 * tesseract
 
 ## Bookmarklets
@@ -66,14 +66,16 @@ I am using a bunch of bookmarklets, which are all documented in the [macWorkflow
 
 ## Development
 
-* XCode
+* Xcode
 * [Sublime Text](http://www.sublimetext.com/)
+* [Atom](https://atom.io)
 * [Cyberduck](http://cyberduck.ch/)
 * [ForkLift](http://www.binarynights.com/forklift)
 * [SourceTree](http://www.sourcetreeapp.com)
 * [Versions](http://www.versionsapp.com/)
 * [Sequel Pro](http://www.sequelpro.com/)
 * [Developer Color Picker](http://www.panic.com/~wade/picker/)
+* [Hex Color Picker](http://wafflesoftware.net/hexpicker/)
 * [LESS.app](http://incident57.com/less/)
 * [Homebrew](http://mxcl.github.com/homebrew/)
 * [SEO Spider](http://www.screamingfrog.co.uk/seo-spider/)
@@ -97,7 +99,9 @@ I am using a bunch of bookmarklets, which are all documented in the [macWorkflow
 
 ## Image Editing
 
+* [Acorn](http://flyingmeat.com/acorn/)
 * [ImageOptim](http://imageoptim.pornel.net/)
+* [ImageAlpha](http://pngmini.com)
 
 ## Internet
 
@@ -113,6 +117,8 @@ I am using a bunch of bookmarklets, which are all documented in the [macWorkflow
 * [TunnelBear](http://www.tunnelbear.com/)
 * [Express Talk VoIP](http://www.nch.com.au/talk/index.html)
 * [HipChat](https://www.hipchat.com)
+* [Fluid](http://fluidapp.com)
+* [SiteSucker](http://sitesucker.us/mac/mac.html)
 
 ## Monitoring
 
@@ -134,6 +140,7 @@ I am using a bunch of bookmarklets, which are all documented in the [macWorkflow
 * [Fantastical](http://flexibits.com/)
 * iBooks
 * [Kindle](http://www.amazon.com/gp/feature.html?docId=1000464931)
+* [Scapple](http://www.literatureandlatte.com/scapple.php)
 
 ## Photography
 
@@ -142,7 +149,7 @@ I am using a bunch of bookmarklets, which are all documented in the [macWorkflow
 
 ## Productivity
 
-* [Things](http://culturedcode.com/things/)
+* [Asana](https://app.asana.com) via Fluid
 * [Notational Velocity](http://notational.net/)
 * [Hazel](http://www.noodlesoft.com/hazel.php)
 * [1Password 4](http://agilewebsolutions.com/products/1Password)
@@ -152,6 +159,7 @@ I am using a bunch of bookmarklets, which are all documented in the [macWorkflow
 ## Renaming
 
 * [ForkLift](http://www.binarynights.com/forklift)
+* [tvnamer](https://github.com/dbr/tvnamer)
 
 ## Safari Extensions
 
@@ -162,12 +170,24 @@ I am using a bunch of bookmarklets, which are all documented in the [macWorkflow
 * [AdBlock](https://getadblock.com)
 * [JSON Formatter](https://github.com/rfletcher/safari-json-formatter)
 * [NoMoreiTunes](http://nomoreitunes.einserver.de)
+* [Reddit Enhancement Suite](http://redditenhancementsuite.com)
 
 ## Services & Scripts
 
 * [TextExpander Tools](http://brettterpstra.com/projects/te-tools/)
 * [Markdown Service Tools](http://brettterpstra.com/projects/markdown-service-tools/)
 * [SearchLink](http://brettterpstra.com/projects/searchlink/)
+
+## UI Design
+
+* [Sketch](http://bohemiancoding.com/sketch/)
+
+### Sketch Utilities
+
+* [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin)
+* [Measure](https://github.com/utom/sketch-measure)
+* [Dynamic buttons](https://github.com/ddwht/sketch-dynamic-button)
+* [Rename It](https://github.com/rodi01/RenameIt)
 
 ## Video
 
@@ -177,6 +197,10 @@ I am using a bunch of bookmarklets, which are all documented in the [macWorkflow
 ## Virtualize
 
 * [VirtualBox](http://www.virtualbox.org/)
+
+## Wallets
+
+* [MultiDoge](http://multidoge.org)
 
 ## Widgets
 
@@ -188,10 +212,17 @@ I am using a bunch of bookmarklets, which are all documented in the [macWorkflow
 
 # Installed, but Still Testing 
 
-* [Light Table](http://www.lighttable.com)
+* http://www.kyngchaos.com/software/qgis w/ GDAL, Matplotlib, NumPy
+* SpatiaLite GUI
+https://github.com/supermarin/Alcatraz
+http://flexget.com
+http://bjango.com/mac/skalacolor/
+
+
 
 # To Uninstall
 
+* [Things](http://culturedcode.com/things/)
 
 # Miss Something?
 
