@@ -2,19 +2,19 @@
 
 ## Apple (used)
 
-* Phone
 * Messages
-* Mail
 * Safari
 * Music
 * Calendar
 * Maps
-* Settings
-* Weather
+* Mail
 
 ## Apple (hidden)
 
-* Passbook
+* Phone
+* Settings
+* Weather
+* Wallet
 * App Store
 * Photos
 * FaceTime
@@ -36,29 +36,28 @@
 ## Audio
 
 * Spotify
-* WNYC
+* TuneIn Radio
 * Overcast
-* Rdio
 * Google Play Music
-* Amazon Music
-* SoundCloud
 * Shazam
-* CBS Local
-* Auphonic
 
 ## Games
 
+* Tiny Wings
+* Oceanhorn
+* Goblin Sword
+
 ## Misc
 
-* Bring!
 * dict.cc
+* NBA Game Time
+* NFL Mobile
 
 ## Office
 
 * Editorial
 * Dropbox
 * Google Voice
-* Authenticator
 * Calcbot
 * Google
 * File Hub
@@ -66,8 +65,7 @@
 
 ## Productivity
 
-* Hill88
-* HipChat
+* Slack
 * 1Password
 * Asana
 
@@ -76,36 +74,22 @@
 * Pocket
 * Reeder
 * Kindle
-* Circa
 
 ## Social
 
 * Tweetbot
 * WhatsApp
-* Instagram
-* Vine
 * Google Hangouts
-* Yelp
-* Swarm
-* Foursquare
-* Meetup
-* Eventbrite
-* Jukely
+* Alien Blue
 
 ## Travel
 
 * Google Maps
 * CityMaps2Go
-* Yahoo! Weather
+* Rego
 * KAYAK
-* Skyscanner
 * DB Navigator
-* Airbnb
-* Uber
-* United Airlines
-* Hotel Tonight
 * Citymapper
-* BVG FahrInfo
 
 ## Video
 
@@ -113,7 +97,7 @@
 * IMDb
 
 
-# Installed, but Still Testing 
+# Installed, but Still Testing
 
 
 # To Uninstall

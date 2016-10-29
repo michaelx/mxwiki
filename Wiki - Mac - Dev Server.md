@@ -77,11 +77,11 @@ Now Apache will load `httpd-vhosts.conf`.
 <VirtualHost *:80>
     ServerName local
     ServerAlias local.io
-    DocumentRoot "/Users/Michael/Projects/Webdevelopment/Local_dev"
+    DocumentRoot "/Users/Michael/Projects/_local.io"
     ErrorLog "/private/var/log/apache2/local.io-error_log"
     CustomLog "/private/var/log/apache2/local.io-access_log" common
 
-        <Directory "/Users/Michael/Projects/Webdevelopment/Local_dev">
+        <Directory "/Users/Michael/Projects/_local.io">
             Options Indexes FollowSymLinks
             AllowOverride All
             Order allow,deny

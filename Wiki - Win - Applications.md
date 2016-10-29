@@ -74,8 +74,6 @@
 
 # Installed, but Still Testing 
 
-* Sketch
-
 
 # To Uninstall
 
