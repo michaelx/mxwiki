@@ -9,92 +9,106 @@
 * Maps
 * Mail
 
-## Apple (hidden)
+## Apple (folder)
 
-* Phone
 * Settings
-* Weather
-* Wallet
 * App Store
+* Phone
+* Weather
 * Photos
-* FaceTime
 * Notes
 * Voice Memos
 * iBooks
-* Reminders
-* Videos
-* Compass
-* Stocks
-* Game Center
-* iTunes Store
-* Calculator
-* Contacts
-* Newsstand
+* FaceTime
 * Clock
 * Camera
+* Health
+* AirPort Utility
+* Stocks
+* Compass
+* Find iPhone
 
 ## Audio
 
-* Spotify
-* TuneIn Radio
 * Overcast
+* TuneIn Radio
 * Google Play Music
-* Shazam
-
-## Games
-
-* Tiny Wings
-* Oceanhorn
-* Goblin Sword
+* Noizio
+* Pandora
 
 ## Misc
 
-* dict.cc
-* NBA Game Time
-* NFL Mobile
+* Xbox
+* Bing
+* Paprika
+* Quick 4
 
 ## Office
 
-* Editorial
 * Dropbox
+* Editorial
+* Hangouts
+* Sketch Mirror
+* Skala View
+* Scanbot
+* ING-DiBa
+* Google
 * Google Voice
 * Calcbot
-* Google
 * File Hub
-* Scanner Pro
+* Skype
+* Chrome
+* Google Assistant
+* Trigger
 
 ## Productivity
 
-* Slack
 * 1Password
 * Asana
+* Workflow
+* TextExpander
 
 ## Reading
 
 * Pocket
 * Reeder
-* Kindle
+
+## Security
+
+* TunnelBear
+* Opera VPN
+* OpenVPN
+* Tob
+* Windscribe
+* Firefox Klar
 
 ## Social
 
 * Tweetbot
+* Reddit
+* Twitter
+* Instagram
 * WhatsApp
-* Google Hangouts
-* Alien Blue
 
 ## Travel
 
-* Google Maps
-* CityMaps2Go
+* Wallet
 * Rego
-* KAYAK
+* Day One
+* CityMaps2Go
+* Yelp
+* KAYAK Pro
+* Google Maps
+* Street View
+* EarthCam
 * DB Navigator
-* Citymapper
+* Google Translate
 
 ## Video
 
 * Netflix
 * IMDb
+* YouTube
 
 
 # Installed, but Still Testing
