@@ -67,6 +67,8 @@ Now Apache will load `httpd-vhosts.conf`.
 
 ## My VirtualHosts
 
+File: `/etc/apache2/extra/httpd-vhosts.conf`
+
 ```
 # My Settings
 <VirtualHost *:80>

@@ -34,7 +34,8 @@
 * TuneIn Radio
 * Google Play Music
 * Noizio
-* Pandora
+* Spotify
+* SomaFM
 
 ## Misc
 
@@ -49,17 +50,14 @@
 * Editorial
 * Hangouts
 * Sketch Mirror
-* Skala View
-* Scanbot
+* Scanbot Pro
 * ING-DiBa
+* TransferWise
 * Google
 * Google Voice
 * Calcbot
-* File Hub
-* Skype
 * Chrome
 * Google Assistant
-* Trigger
 
 ## Productivity
 
@@ -70,23 +68,20 @@
 
 ## Reading
 
-* Pocket
 * Reeder
+* Wallabag
 
 ## Security
 
-* TunnelBear
-* Opera VPN
 * OpenVPN
-* Tob
 * Windscribe
 * Firefox Klar
 
 ## Social
 
-* Tweetbot
-* Reddit
+* Twitterrific
 * Twitter
+* Reddit
 * Instagram
 * WhatsApp
 
@@ -97,18 +92,16 @@
 * Day One
 * CityMaps2Go
 * Yelp
-* KAYAK Pro
 * Google Maps
 * Street View
-* EarthCam
-* DB Navigator
 * Google Translate
+* DB Navigator
 
 ## Video
 
-* Netflix
 * IMDb
 * YouTube
+* TV Time
 
 
 # Installed, but Still Testing
